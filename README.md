@@ -1,9 +1,11 @@
- Olá mundo! 👋🏽
 
-🧑🏼 Andrei dos Santos Magnus
-💻 Atualmente estudando Python
-📘 Curso de Analise e desenvolvimento de sistemas
-✉️ contate-me: Andrei.dos.santos.magnus@gmail.com
+<div align='center'>
+  Olá mundo! 👋🏽 <br>
+ 🧑🏼 Andrei dos Santos Magnus <br>
+ 💻 Atualmente estudando Python <br>
+ 📘 Curso de Analise e desenvolvimento de sistemas <br>
+ ✉️ contate-me: Andrei.dos.santos.magnus@gmail.com <br>
+</div>
 
 <div align="center">
   <a href="https://github.com/AndreiMagnus">
